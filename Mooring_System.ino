@@ -1,3 +1,10 @@
+/*
+ * Authors:
+ *   Seif Karmy      - https://www.linkedin.com/in/seifkarmy/
+ *   Mahmoud Darwish - https://www.linkedin.com/in/mahmoud-darwish-a264a51b1/
+ *   Zeyad Mohamed   - https://www.linkedin.com/in/zyad-mohamed-353642253/
+ */
+
 #include <LiquidCrystal.h>
 
 // -------- Stepper Motor --------
